@@ -1,9 +1,7 @@
-build
-dist
-*.pyc
-.DS_Store
-MANIFEST
-.coverage
-htmlcov
-/.idea/
-*.egg-info
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
